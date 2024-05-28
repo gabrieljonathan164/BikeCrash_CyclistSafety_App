@@ -30,9 +30,9 @@ The tool predicts the risk of cycling based on the user's input within the City 
 
 ### User Guide
 
-![User Guide Image 1]([media/image1.png](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture1.png))
+![alt text](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture1.png)
 
-![User Guide Image 2]([media/image2.png](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture2.png))
+![alt text](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture2.png)
 
 Based on the inputs provided, the risk score is generated.
 
@@ -44,10 +44,10 @@ Brownlee, J. (2019, August 22). *Feature Selection with the Caret R Package*. Re
 
 ### Appendix
 
-![Figure 1]([media/image3.png](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture3.png))
+![alt text](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture3.png)
 
 Figure 1
 
-![Figure 2]([media/image4.png](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture4.png))
+![alt text](https://github.com/gabrieljonathan164/BikeCrash_CyclistSafety_App/blob/main/Picture4.png)
 
 Figure 2
